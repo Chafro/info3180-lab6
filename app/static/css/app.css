@@ -5,3 +5,22 @@ body {
 footer  {
     padding-top: 20px;
 }
+.newsitem{
+	display: inline-block; 
+	border-radius: 10px; 
+	border: 2px groove lightblue; 
+	border-top-width: 5px; 
+	border-top-color: lightpurple ;
+	margin: 10px 10px 10px 10px; 
+    width: 18em; height: 36em; 
+    vertical-align: top; 
+    padding: 5px;
+}
+.newstitle{
+	style = "font-weight: bold;
+	font-style: italic; 
+}
+.newsimage{
+	max-width: 100%;
+	max-height: 50%;
+}
